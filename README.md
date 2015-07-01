@@ -24,5 +24,6 @@ The main deliverable is a C library that provides an API comparable to `johnny-f
 
 ## Ideas
 * [ ] Explore ChibiOS as RTOS
+* [ ] Add optional features that are available to the board (microsecond counters, additional peripherals)
 * [ ] Add test-driven development (Unity? CMock?)
 * [ ] Higher-level bindings as separate projects (duktape, micropython, zinc)
