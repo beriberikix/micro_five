@@ -1,6 +1,6 @@
 *WARNING: this project is highly experimental and still in the exploration phase.*
 
-# micro-five
+# micro_five
 µFive - a microcontroller port of Johnny-Five written in C
 
 ## Why
