@@ -46,4 +46,6 @@ int main( void )
   puts( board->name );
 
   free( board );
+
+  return 0;
 }
